@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studentPortal\\TodoApp\\TodoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|d:\\studentportal\\todoapp\\todoapp\\todoapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A38AFD6-6513-475E-8D99-BDF0D71C4FE2}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:33:49.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T13:14:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:14:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T12:25:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T11:07:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:52:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:47:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Todoitem.cs",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Models\\Todoitem.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\Todoitem.cs",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Models\\Todoitem.cs",
+              "RelativeToolTip": "TodoApp\\Models\\Todoitem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:34:31.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "TodoApp\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:25:43.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\studentPortal\\TodoApp\\TodoApp\\TodoApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:19:37.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

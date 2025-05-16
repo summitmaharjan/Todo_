@@ -1,0 +1,20 @@
+﻿@model TodoApp.Models.Todoitem
+@{
+}
+<h2 style="background-color:#90D1CA; text-align:center;   border-radius: 10px;">
+	Edit Todo
+</h2>
+
+<form asp-action="Edit" method="post">
+	<input type="hidden" asp-for="Id" />
+	<div class="form-group">
+		<label for="Title">Title</label>
+		<input type="text" class="form-control" asp-for="Title" />
+	</div>
+
+	<div class="form-group">
+		<label for="Title">Completed</label>
+		<input type="checkbox" asp-for="IsCompleted" class="form-check-input" />
+	</div>
+	<button type="submit" class="btn btn-primary mt-3">Save Changes</button>
+</form>

@@ -1,0 +1,19 @@
+﻿@model TodoApp.Models.Todoitem
+@{
+}
+<h1 style="background-color:#E55050; text-align:center;   border-radius: 10px;">Delete Todo</h1>
+
+<div>
+	<h4>Are you sure you want to Delete this?</h4>
+
+	<div>
+		<strong>Title:</strong>@Model.Title<br />
+		<strong>Completed:</strong>@Model.IsCompleted<br />
+	</div>
+
+	<form asp-action="Delete" method="post">
+		<input type="hidden" asp-action="Id" />
+		<button type="submit" class="btn btn-danger">Delete</button>
+		<a asp-controller="Todo" asp-action="Index" class="btn btn-secondary">Cancel</a>
+	</form>
+</div>
